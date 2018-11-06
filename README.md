@@ -14,10 +14,13 @@ As a user, I can create an account with Human Agency so that I can create ads on
 As a user, I can log into my account on Human Agency so that the app knows which ads are mine.
 
 As a user, I can add a headline to my ad so that my ad can run on the Facebook newsfeed.
+*Acceptance Criteria* - Headline cannot be empty
 
 As a user, I can add a description to my ad so that my ad can run on the Facebook newsfeed.
+*Acceptance Criteria* - Description cannot be empty
 
 As a user, I can upload an image for my ad so that my ad can run on the Facebook newsfeed.
+*Acceptance Criteria* - Image cannot be empty
 
 As a user, I can view all of the ads that I have created so that I review which ads are running on Facebook
 
